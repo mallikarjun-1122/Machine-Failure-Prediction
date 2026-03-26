@@ -77,7 +77,7 @@ python main.py
 - Add real-time prediction  
 ---
 ## 👨‍💻 Author
-**Swarup**  
+**S. Mallikarjun**  
 B.Tech – Computer Science and Design (CSD)
 ---
 ## 📄 License
